@@ -8,4 +8,4 @@ def besearch(data,target):
   elif(data[mid]>target):
     mid=mid-1
   elif(data[mid]<target):
-    mid=mid+1
+   mid=mid+1
